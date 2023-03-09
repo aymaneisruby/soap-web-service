@@ -53,6 +53,37 @@ soap web service
 
 <img width="960" alt="22" src="https://user-images.githubusercontent.com/105078337/224102747-96ff4b4b-08b0-48b0-9ac3-bd4d7d097add.png">
 
+# Dotnet c# console app Client 
 
+<img width="667" alt="3" src="https://user-images.githubusercontent.com/105078337/224176152-181b28a7-95e2-4b07-88df-2c4321065c1c.png">
 
+<img width="667" alt="2" src="https://user-images.githubusercontent.com/105078337/224176184-fc9ec88b-0cbd-4c82-88ac-af9fec6490fe.png">
+
+![4](https://user-images.githubusercontent.com/105078337/224176290-1bb29431-bf4a-4b85-9d3b-7480e89ca8c5.png)
+
+<img width="960" alt="5" src="https://user-images.githubusercontent.com/105078337/224176250-7dc84972-72a8-487d-909d-3f0357778fc9.png">
+
+<img width="960" alt="6" src="https://user-images.githubusercontent.com/105078337/224176345-87d5e5f5-c279-43ff-87b2-5005d803471b.png">
+
+<img width="603" alt="7" src="https://user-images.githubusercontent.com/105078337/224176397-bb5deb28-397c-42c9-9a04-9bbefe107e3f.png">
+
+<img width="603" alt="8" src="https://user-images.githubusercontent.com/105078337/224176413-4a39021a-5f3b-47b7-8e49-d1d5c4c0213d.png">
+
+<img width="603" alt="9" src="https://user-images.githubusercontent.com/105078337/224176425-7f577955-bf23-4e4e-b5e5-1620e5982ddf.png">
+
+<img width="603" alt="10" src="https://user-images.githubusercontent.com/105078337/224176446-dd8eaad4-4568-46f8-8c75-a93c03a5dd0c.png">
+
+<img width="603" alt="17" src="https://user-images.githubusercontent.com/105078337/224176483-b1d03ce3-909b-44fd-a7d0-368ff83be0df.png">
+
+<img width="603" alt="18" src="https://user-images.githubusercontent.com/105078337/224176500-b40fba63-7e18-46bf-8064-3fa42f67aa2c.png">
+
+<img width="603" alt="13" src="https://user-images.githubusercontent.com/105078337/224176535-28d51148-1ae4-4421-ac0f-c74f390f15aa.png">
+
+<img width="603" alt="14" src="https://user-images.githubusercontent.com/105078337/224176585-6190af20-a3f0-44ec-b79e-b53357ca6b0e.png">
+
+<img width="960" alt="19" src="https://user-images.githubusercontent.com/105078337/224176780-060754da-907f-4088-85d3-e787e5ef1bb1.png">
+
+<img width="960" alt="15" src="https://user-images.githubusercontent.com/105078337/224176628-34ab2af4-f0ea-46f2-b86e-3e2d4de1d86d.png">
+
+<img width="674" alt="16" src="https://user-images.githubusercontent.com/105078337/224176647-d25ea2f8-a07e-47dd-a74d-5b634f3e2642.png">
 
