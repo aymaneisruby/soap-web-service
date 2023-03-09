@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://ws/" targetNamespace="http://ws/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Account" type="tns:account" />
+  <xs:element name="AccountsList" type="tns:AccountsList" />
+  <xs:element name="AccountsListResponse" type="tns:AccountsListResponse" />
+  <xs:element name="Convert_USD_to_MAD" type="tns:Convert_USD_to_MAD" />
+  <xs:element name="Convert_USD_to_MADResponse" type="tns:Convert_USD_to_MADResponse" />
+  <xs:element name="getAccount" type="tns:getAccount" />
+  <xs:element name="getAccountResponse" type="tns:getAccountResponse" />
+  <xs:complexType name="Convert_USD_to_MAD">
+    <xs:sequence>
+      <xs:element name="amount" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="Convert_USD_to_MADResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getAccount">
+    <xs:sequence>
+      <xs:element name="Id" type="xs:int" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="getAccountResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:account" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="account">
+    <xs:sequence>
+      <xs:element name="Id" type="xs:int" />
+      <xs:element name="Balance" type="xs:double" />
+      <xs:element minOccurs="0" name="CreationDate" type="xs:dateTime" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="AccountsList">
+    <xs:sequence />
+  </xs:complexType>
+  <xs:complexType name="AccountsListResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="return" type="tns:account" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

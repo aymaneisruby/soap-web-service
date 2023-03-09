@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\soap-web-service\soap-ws-dotnet-csharp-app-windows-forms-client\soap-ws-dotnet-csharp-app-windows-forms-client\bin\Debug\soap-ws-dotnet-csharp-app-windows-forms-client.exe.config
+C:\Users\hp\Desktop\soap-web-service\soap-ws-dotnet-csharp-app-windows-forms-client\soap-ws-dotnet-csharp-app-windows-forms-client\bin\Debug\soap-ws-dotnet-csharp-app-windows-forms-client.exe
+C:\Users\hp\Desktop\soap-web-service\soap-ws-dotnet-csharp-app-windows-forms-client\soap-ws-dotnet-csharp-app-windows-forms-client\bin\Debug\soap-ws-dotnet-csharp-app-windows-forms-client.pdb
+C:\Users\hp\Desktop\soap-web-service\soap-ws-dotnet-csharp-app-windows-forms-client\soap-ws-dotnet-csharp-app-windows-forms-client\obj\Debug\soap-ws-dotnet-csharp-app-windows-forms-client.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\soap-web-service\soap-ws-dotnet-csharp-app-windows-forms-client\soap-ws-dotnet-csharp-app-windows-forms-client\obj\Debug\soap-ws-dotnet-csharp-app-windows-forms-client.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\soap-web-service\soap-ws-dotnet-csharp-app-windows-forms-client\soap-ws-dotnet-csharp-app-windows-forms-client\obj\Debug\soap_ws_dotnet_csharp_app_windows_forms_client.Form1.resources
+C:\Users\hp\Desktop\soap-web-service\soap-ws-dotnet-csharp-app-windows-forms-client\soap-ws-dotnet-csharp-app-windows-forms-client\obj\Debug\soap_ws_dotnet_csharp_app_windows_forms_client.Properties.Resources.resources
+C:\Users\hp\Desktop\soap-web-service\soap-ws-dotnet-csharp-app-windows-forms-client\soap-ws-dotnet-csharp-app-windows-forms-client\obj\Debug\soap-ws-dotnet-csharp-app-windows-forms-client.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\soap-web-service\soap-ws-dotnet-csharp-app-windows-forms-client\soap-ws-dotnet-csharp-app-windows-forms-client\obj\Debug\soap-ws-dotnet-csharp-app-windows-forms-client.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\soap-web-service\soap-ws-dotnet-csharp-app-windows-forms-client\soap-ws-dotnet-csharp-app-windows-forms-client\obj\Debug\soap-ws-dotnet-csharp-app-windows-forms-client.exe
+C:\Users\hp\Desktop\soap-web-service\soap-ws-dotnet-csharp-app-windows-forms-client\soap-ws-dotnet-csharp-app-windows-forms-client\obj\Debug\soap-ws-dotnet-csharp-app-windows-forms-client.pdb
