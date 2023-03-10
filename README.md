@@ -87,3 +87,49 @@ soap web service
 
 <img width="674" alt="16" src="https://user-images.githubusercontent.com/105078337/224176647-d25ea2f8-a07e-47dd-a74d-5b634f3e2642.png">
 
+# Dotnet C# Windows Forms application Client 
+
+<img width="667" alt="1" src="https://user-images.githubusercontent.com/105078337/224190685-6686787d-bd90-4967-a4aa-c92e2fc0b103.png">
+
+<img width="960" alt="2" src="https://user-images.githubusercontent.com/105078337/224190696-b8550dde-5ad9-477d-8519-ff7805de3ddf.png">
+
+<img width="960" alt="3" src="https://user-images.githubusercontent.com/105078337/224190745-d3063ab7-731f-4689-acb9-403962f802bc.png">
+
+<img width="440" alt="4" src="https://user-images.githubusercontent.com/105078337/224190765-9608b823-df3f-44ff-918e-6b4516fe4da9.png">
+
+<img width="440" alt="5" src="https://user-images.githubusercontent.com/105078337/224190786-94221d45-b059-456c-96ff-2e2aaf77195c.png">
+
+<img width="960" alt="6" src="https://user-images.githubusercontent.com/105078337/224190856-00e672bb-9eda-478c-a817-66fd4f2928b0.png">
+
+<img width="960" alt="10" src="https://user-images.githubusercontent.com/105078337/224190930-673035b0-845d-4f9a-b989-8b3afd4881c9.png">
+
+<img width="960" alt="11" src="https://user-images.githubusercontent.com/105078337/224191040-cb3232bd-1ca8-42d4-8fce-369c01e56df0.png">
+
+<img width="960" alt="12" src="https://user-images.githubusercontent.com/105078337/224191093-57f6417e-46d4-4373-9ac4-abe2eb3bb036.png">
+
+<img width="960" alt="13" src="https://user-images.githubusercontent.com/105078337/224191111-d2aa2e25-72d7-4286-8c3e-23097be66273.png">
+
+<img width="470" alt="7" src="https://user-images.githubusercontent.com/105078337/224190959-572fceee-cd9d-4086-9ba0-d80985ae6e81.png">
+
+<img width="470" alt="8" src="https://user-images.githubusercontent.com/105078337/224190979-aa90c953-6e3f-4dc5-a47b-3f9cef4a04f1.png">
+
+<img width="470" alt="9" src="https://user-images.githubusercontent.com/105078337/224191008-905fa588-c32c-4890-a765-4f929cddd2cf.png">
+
+
+# PHP Client 
+
+<img width="960" alt="4" src="https://user-images.githubusercontent.com/105078337/224191260-f81cdb50-9cad-4704-ab01-ff6e008edd18.png">
+
+<img width="960" alt="5" src="https://user-images.githubusercontent.com/105078337/224191287-e0d2f80a-0ae4-4233-882a-bd8feabde136.png">
+
+<img width="960" alt="6" src="https://user-images.githubusercontent.com/105078337/224191304-62cb1d4a-d70a-419c-92df-ea528a65ca11.png">
+
+<img width="960" alt="7" src="https://user-images.githubusercontent.com/105078337/224191324-2f3ec0f8-5bfb-4bc0-8b9a-b9d16669f9b7.png">
+
+<img width="960" alt="8" src="https://user-images.githubusercontent.com/105078337/224191343-b1d905e8-1103-4acc-8359-ba33cf1a0ea0.png">
+
+<img width="512" alt="1" src="https://user-images.githubusercontent.com/105078337/224191199-931fcf31-26cf-4e81-9d44-62c37670c4e7.png">
+
+<img width="512" alt="2" src="https://user-images.githubusercontent.com/105078337/224191220-540d4ad6-63d3-40a2-9705-e02b91848e4c.png">
+
+<img width="512" alt="3" src="https://user-images.githubusercontent.com/105078337/224191238-33f3f715-45fd-4c7b-bb7e-a3cacd16d4d1.png">
