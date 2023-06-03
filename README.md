@@ -1,5 +1,40 @@
 # soap-web-service
-soap web service
+<p align="justify">
+Nous allons suivre les étapes pour créer un web service qui permet de convertir un montant de l'euro en dirham marocain, consulter un compte, consulter une liste de comptes, et ensuite déployer le web service à l'aide d'un serveur JaxWS. Nous analyserons également le WSDL avec un navigateur HTTP et testerons les opérations du web service à l'aide d'outils tels que SoapUI ou Oxygen. Enfin, nous créerons des clients SOAP en Java, .NET et PHP, et déploierons le web service dans un projet Spring Boot.</p>
+
+* ## Création du web service:
+<p align="justify">
+Pour créer le web service, vous pouvez utiliser un langage de programmation comme Java avec JAX-WS (Java API for XML Web Services) ou PHP avec le framework SOAP natif. Vous devrez implémenter les opérations de conversion d'euro en dirham, de consultation de compte et de liste de comptes dans le web service.</p>
+
+* ## Déploiement du web service avec un serveur JaxWS:
+<p align="justify">
+Une fois que vous avez implémenté le web service, vous pouvez le déployer à l'aide d'un serveur JaxWS tel que Apache Tomcat ou GlassFish. Assurez-vous que le serveur JaxWS est correctement configuré et que le web service est déployé avec succès.</p>
+
+* ## Consultation et analyse du WSDL avec un navigateur HTTP:
+<p align="justify">
+Le WSDL (Web Services Description Language) est un document XML qui décrit les fonctionnalités du web service. Vous pouvez consulter le WSDL en accédant à l'URL du web service à l'aide d'un navigateur HTTP. Par exemple, si votre web service est accessible à l'adresse http://localhost:8080/monWebService, vous pouvez consulter le WSDL en accédant à l'URL http://localhost:8080/monWebService?wsdl.</p>
+
+* ## Test des opérations du web service avec un outil comme SoapUI ou Oxygen:
+<p align="justify">
+Vous pouvez utiliser des outils tels que SoapUI ou Oxygen pour tester les opérations du web service. Ces outils vous permettent de spécifier les paramètres d'entrée des opérations et de visualiser les résultats renvoyés par le web service. Vous devrez fournir l'URL du web service et les paramètres requis pour chaque opération que vous souhaitez tester.</p>
+
+* ## Création d'un client SOAP Java:
+<p align="justify">
+Pour créer un client SOAP en Java, vous pouvez utiliser des bibliothèques telles que JAX-WS ou Apache CXF. Ces bibliothèques vous permettent de générer des classes de proxy à partir du WSDL du web service. Vous pouvez ensuite utiliser ces classes de proxy pour invoquer les opérations du web service à partir de votre client Java.</p>
+
+* ## Création d'un client SOAP .NET:
+<p align="justify">
+Pour créer un client SOAP en .NET, vous pouvez utiliser Visual Studio et ajouter une référence de service à votre projet. Vous devrez fournir l'URL du web service ou le fichier WSDL correspondant, et Visual Studio générera les classes de proxy nécessaires pour invoquer les opérations du web service à partir de votre client .NET.</p>
+
+* ## Création d'un client SOAP PHP:
+<p align="justify">
+Pour créer un client SOAP en PHP, vous pouvez utiliser la classe native SoapClient. Vous devrez fournir l'URL du web service ou le fichier WSDL correspondant, et utiliser la classe SoapClient pour invoquer les opérations du web service à partir de votre client PHP.</p>
+
+* ## Déploiement du web service dans un projet Spring Boot:
+<p align="justify">
+Si vous souhaitez déployer le web service dans un projet Spring Boot, vous pouvez utiliser le module Spring Web Services (Spring-WS). Spring-WS simplifie le développement de web services SOAP en fournissant des fonctionnalités telles que la gestion des requêtes et des réponses SOAP, la validation des messages, etc. Vous devrez configurer votre projet Spring Boot pour utiliser Spring-WS et implémenter les opérations du web service.</p>
+<p align="justify">
+Une fois que vous avez terminé toutes ces étapes, vous aurez un web service fonctionnel qui peut être utilisé par différents clients SOAP en Java, .NET et PHP.</p>
 
 <img width="590" alt="3" src="https://user-images.githubusercontent.com/105078337/224100499-bd400520-a526-4a50-9a61-ad1c474ac984.png">
 
